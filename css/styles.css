@@ -11,6 +11,11 @@
     font-size: 100%;
 }
 
+.row-content a {
+    text-decoration: none;
+    color: black;
+}
+
 .footer {
     background-color: #D1C4E9;
     margin: 0px auto;
