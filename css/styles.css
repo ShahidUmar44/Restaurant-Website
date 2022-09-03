@@ -18,6 +18,8 @@
   padding: 70px 30px;
   background: #9575CD;
   color: floralwhite; }
+  .jumbotron #reserveButton {
+    color: floralwhite; }
 
 address {
   font-size: 80%;
